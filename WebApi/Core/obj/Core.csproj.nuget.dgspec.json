@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\WebApi\\WebApi\\Core\\Core.csproj": {}
+    "C:\\Development\\webshit\\WebApi\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Development\\WebApi\\WebApi\\Core\\Core.csproj": {
+    "C:\\Development\\webshit\\WebApi\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\WebApi\\WebApi\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Development\\webshit\\WebApi\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Development\\WebApi\\WebApi\\Core\\Core.csproj",
+        "projectPath": "C:\\Development\\webshit\\WebApi\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\WebApi\\WebApi\\Core\\obj\\",
+        "outputPath": "C:\\Development\\webshit\\WebApi\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

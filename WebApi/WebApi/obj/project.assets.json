@@ -2738,11 +2738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Development\\webshit\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Development\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Development\\webshit\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\WebApi\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Development\\webshit\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2759,11 +2759,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Development\\WebApi\\WebApi\\BookStore.Application\\BookStore.Application.csproj": {
-              "projectPath": "C:\\Development\\WebApi\\WebApi\\BookStore.Application\\BookStore.Application.csproj"
+            "C:\\Development\\webshit\\WebApi\\BookStore.Application\\BookStore.Application.csproj": {
+              "projectPath": "C:\\Development\\webshit\\WebApi\\BookStore.Application\\BookStore.Application.csproj"
             },
-            "C:\\Development\\WebApi\\WebApi\\BookStore.DataAccess\\BookStore.DataAccess.csproj": {
-              "projectPath": "C:\\Development\\WebApi\\WebApi\\BookStore.DataAccess\\BookStore.DataAccess.csproj"
+            "C:\\Development\\webshit\\WebApi\\BookStore.DataAccess\\BookStore.DataAccess.csproj": {
+              "projectPath": "C:\\Development\\webshit\\WebApi\\BookStore.DataAccess\\BookStore.DataAccess.csproj"
             }
           }
         }
