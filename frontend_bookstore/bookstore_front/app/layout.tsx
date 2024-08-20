@@ -7,7 +7,7 @@ const items = [
     { key: "home", label: <Link href={"/"}>Home</Link> },
     { key: "books", label: <Link href={"/books"}>Books</Link> }
 ]
- 
+
 export default function RootLayout({
   children,
 }: Readonly<{
