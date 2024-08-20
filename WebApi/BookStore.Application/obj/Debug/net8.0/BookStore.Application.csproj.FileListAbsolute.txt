@@ -1,0 +1,16 @@
+C:\Development\WebApi\WebApi\BookStore.Application\bin\Debug\net8.0\BookStore.Application.deps.json
+C:\Development\WebApi\WebApi\BookStore.Application\bin\Debug\net8.0\BookStore.Application.dll
+C:\Development\WebApi\WebApi\BookStore.Application\bin\Debug\net8.0\BookStore.Application.pdb
+C:\Development\WebApi\WebApi\BookStore.Application\bin\Debug\net8.0\Core.dll
+C:\Development\WebApi\WebApi\BookStore.Application\bin\Debug\net8.0\Core.pdb
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.AssemblyReference.cache
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfoInputs.cache
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.AssemblyInfo.cs
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CoreCompileInputs.cache
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.sourcelink.json
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.csproj.CopyComplete
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.dll
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\refint\BookStore.Application.dll
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\BookStore.Application.pdb
+C:\Development\WebApi\WebApi\BookStore.Application\obj\Debug\net8.0\ref\BookStore.Application.dll

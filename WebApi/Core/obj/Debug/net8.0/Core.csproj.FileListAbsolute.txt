@@ -1,0 +1,12 @@
+C:\Development\WebApi\WebApi\Core\bin\Debug\net8.0\Core.deps.json
+C:\Development\WebApi\WebApi\Core\bin\Debug\net8.0\Core.dll
+C:\Development\WebApi\WebApi\Core\bin\Debug\net8.0\Core.pdb
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\Core.dll
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\Core.pdb
+C:\Development\WebApi\WebApi\Core\obj\Debug\net8.0\ref\Core.dll
